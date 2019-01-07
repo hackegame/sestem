@@ -2243,4 +2243,4 @@ if (message.content.startsWith(prefix + 'نقاطي')) {
 /////////////////////////////////////////////////////////////////////////ALPHA / ALPHA CODES / ALPHA CODES///////////////////////////
 
 
-client.login(NTMxOTI2NjMyNzk4MjI0Mzg1.DxVJqA.iwiLqE8ZXXdQ2vd3gT2QYHc5OJg);
+client.loginNTMxOTI2NjMyNzk4MjI0Mzg1.DxViLw.yS2JSQG8ZP4qkr3FX5jj8U41XDw);
